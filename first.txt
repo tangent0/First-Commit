@@ -1,3 +1,6 @@
 
 Windows PowerShell
 版权所有 (C) 2009 Microsoft Corporation。保留所有权利。
+
+Windows PowerShell
+版权所有 (C) 2009 Microsoft Corporation。保留所有权利。
